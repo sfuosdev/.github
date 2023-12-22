@@ -2,7 +2,7 @@
 
 <h1 align="center">SFU OS (Open Source) Development Club</h1>
 
-<p align="right"> <img src="https://github.com/sfuosdev/.github/assets/101218671/15ef2174-131c-4cd3-b6b8-d54053b4854f" width=400 /> </p>
+<img align="right" src="https://github.com/sfuosdev/.github/assets/101218671/15ef2174-131c-4cd3-b6b8-d54053b4854f" width=400 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sfuosdev&label=Profile%20views&color=0e75b6&style=flat" alt="sfuosdev" /> </p>
 
