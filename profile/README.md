@@ -6,5 +6,13 @@
 
 
 
-- 🔭 SFU OS Dev Club is the official club that is run by Simon Fraser University encouraging SFU students to be exposed to real-world software engineering projects.
+- 🔭 SFU OS Dev Club is the official club that is run by Simon Fraser University, encouraging SFU students to be exposed to real-world software engineering projects.
+
+- Our club runs 2 - 3 software engineering projects every semester providing opportunities to SFU students to collaborate with others and expand their connections.
+
+- If you would like to see our previous work, please go to the repository section below or above the headers.
+
+- If you are interested in joining our club, please join the club through the SFSS link that is down below. https://go.sfss.ca/clubs/867/info
+
+- Please join our discord channel for later updates. https://discord.gg/K89Efc5qGx 
 
