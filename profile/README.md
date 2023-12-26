@@ -12,7 +12,9 @@
 
 - If you would like to see our previous work, please go to the repository section below or above the headers.
 
-- If you are interested in joining our club, please join the club through the SFSS link that is down below. https://go.sfss.ca/clubs/867/info
+- If you are interested in joining our club, please join the club through the SFSS link that is down below.
+- https://go.sfss.ca/clubs/867/info
 
-- Please join our discord channel for later updates. https://discord.gg/K89Efc5qGx 
+- Please join our discord channel for later updates.
+- https://discord.gg/K89Efc5qGx 
 
