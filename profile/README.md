@@ -11,6 +11,7 @@
 - Our club runs 2 - 3 software engineering projects every semester providing opportunities to SFU students to collaborate with others and expand their connections.
 
 - If you would like to see our previous work, please go to the repository section below or above the headers.
+  - https://github.com/orgs/sfuosdev/repositories
 
 - If you are interested in joining our club, please join the club through the SFSS link that is down below.
   - https://go.sfss.ca/clubs/867/info
