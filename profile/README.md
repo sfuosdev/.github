@@ -2,7 +2,7 @@
 
 <h1 align="center">SFU OS (Open Source) Development Club</h1>
 
-<img align="right" src="https://github.com/sfuosdev/.github/assets/101218671/15ef2174-131c-4cd3-b6b8-d54053b4854f" width=300 />
+<img align="right" src="https://github.com/sfuosdev/.github/assets/101218671/cdbfad0c-c470-4701-a431-d1f764783476" width=300 />
 
 
 
