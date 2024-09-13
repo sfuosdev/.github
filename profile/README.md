@@ -2,8 +2,7 @@
 
 <h1 align="center">SFU OS (Open Source) Development Club</h1>
 
-<img align="right" src="https://github.com/sfuosdev/.github/assets/101218671/cdbfad0c-c470-4701-a431-d1f764783476" width=300 />
-
+<img align="right" src="https://github.com/user-attachments/assets/da198c19-2a97-4dbc-bef7-a52d645c8f01" width=300 />
 
 
 - 🔭 SFU OS Dev Club is the official club that is run by Simon Fraser University, encouraging SFU students to be exposed to real-world software engineering projects.
