@@ -2,7 +2,7 @@
 
 <h1 align="center">SFU OS (Open Source) Development Club</h1>
 
-<img align="right" src="https://github.com/user-attachments/assets/da198c19-2a97-4dbc-bef7-a52d645c8f01" width=300 />
+<img align="right" src="https://github.com/user-attachments/assets/c8eb51e1-0a47-4ccc-9da5-0591f50d7ab8" width=300 />
 
 
 - 🔭 SFU OS Dev Club is the official club that is run by Simon Fraser University, encouraging SFU students to be exposed to real-world software engineering projects.
@@ -14,6 +14,7 @@
 
 - If you are interested in joining our club, please join the club through the SFSS link that is down below.
   - https://go.sfss.ca/clubs/867/info
+
 
 - Please join our discord channel for later updates.
   - https://discord.gg/K89Efc5qGx 
